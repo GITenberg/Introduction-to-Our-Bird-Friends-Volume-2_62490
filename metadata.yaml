@@ -1,0 +1,28 @@
+_repo: Introduction-to-Our-Bird-Friends-Volume-2_62490
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rice, Orville O.
+    gutenberg_agent_id: '51359'
+    url: http://www.gutenberg.org/2009/agents/51359
+creator:
+  author:
+    agent_name: Carson, Lenwood Ballard
+    alias: Carson, L. B.
+    gutenberg_agent_id: '51358'
+    url: http://www.gutenberg.org/2009/agents/51358
+description: ''
+gutenberg_issued: '2020-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- Kansas'
+- GITenberg
+title: Introduction to Our Bird Friends, Volume 2
+url: http://www.gutenberg.org/ebooks/62490
